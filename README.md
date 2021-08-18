@@ -1,6 +1,6 @@
-# Guilherme Cascardi Moreira, sejam bem-vindos ao meu GitHub! Me sigam aqui e nas redes sociais.
+# Guilherme Cascardi Moreira, sejam bem-vindos ao meu GitHub! 
 
- <div>
+ <div style="display: inline_block">
    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=gcascardi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcascardi&layout=compact&langs_count=4&theme=radical"/>
   <a href="https://github.com/gcascardi">
