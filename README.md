@@ -2,7 +2,7 @@
 
  <div>
    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=gcascardi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="68em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcascardi&layout=compact&langs_count=4&theme=radical"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcascardi&layout=compact&langs_count=4&theme=radical"/>
   <a href="https://github.com/gcascardi">
 </div>
 
