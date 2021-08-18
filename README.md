@@ -1,4 +1,4 @@
-#<p align=center> Guilherme Cascardi, bem-vindos ao meu GitHub! </p>
+#<h2 align=center > Guilherme Cascardi, bem-vindos ao meu GitHub! </h2>
 
  <div align=center>
   <img height = "168em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcascardi&layout=compact&langs_count=8&theme=radical"/>
