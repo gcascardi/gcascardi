@@ -2,15 +2,13 @@
 
  <div>
    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=gcascardi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcascardi&layout=compact&langs_count=4&theme=radical"/>
-  <a href="https://github.com/Paulo77Dev">
-
+  <img height="68em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcascardi&layout=compact&langs_count=4&theme=radical"/>
+  <a href="https://github.com/gcascardi">
 </div>
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
