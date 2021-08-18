@@ -2,10 +2,12 @@
 
  <div>
    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=gcascardi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcascardi&layout=compact&langs_count=7&theme=radical"/>
-  <a href="https://github.com/gcascardi">
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcascardi&layout=compact&langs_count=4&theme=radical"/>
+  <a href="https://github.com/Paulo77Dev">
 
 </div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
